@@ -4,8 +4,8 @@ nav {
   width: 100%;
   display: flex;
 }
-#nav1 {
-  background-color: blue;
+#nav1 img {
+  width: 100px;
 }
 #nav2 {
   background-color: aqua;
