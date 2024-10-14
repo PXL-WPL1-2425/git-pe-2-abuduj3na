@@ -1,0 +1,15 @@
+nav {
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  display: flex;
+}
+#nav1 {
+  background-color: blue;
+}
+#nav2 {
+  background-color: aqua;
+}
+#nav3 {
+  background-color: aquamarine;
+}
