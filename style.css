@@ -1,3 +1,6 @@
+body {
+  background-color: aquamarine;
+}
 nav {
   justify-content: space-around;
   align-items: center;
@@ -25,7 +28,7 @@ nav {
 }
 
 a {
-  color: rgb(15, 14, 14);
+  color: white;
   font-size: 14pt;
 }
 ul {
