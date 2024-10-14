@@ -28,6 +28,7 @@ nav {
 }
 
 a {
+  text-decoration: none;
   color: white;
   font-size: 14pt;
 }
@@ -36,4 +37,12 @@ ul {
   display: flex;
   justify-content: space-between;
   gap: 10px;
+  text-decoration: none;
+}
+#signin {
+  background-color: red;
+  color: black;
+  padding: 0px 10px;
+  border-radius: 25px;
+  font-weight: bold;
 }
